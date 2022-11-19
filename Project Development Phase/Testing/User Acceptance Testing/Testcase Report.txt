@@ -1,0 +1,14 @@
+call by value 
+call by reference
+function
+update query
+smoke sanity
+black box testing concepts like smoke and regression technique
+process model
+data types
+interface
+integration
+deployment
+arrays 
+strings
+data base with 5 commands table c
